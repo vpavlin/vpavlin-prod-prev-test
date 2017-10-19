@@ -35,6 +35,7 @@ $ curl http://localhost:8080/api/greeting?name=Sarah
 To update your booster:
 
 . Stop your booster.
+
 +
 NOTE: To stop your running booster in a Linux or macOS terminal, use `CTRL+C`. In a Windows command prompt, you can use `CTRL + Break(pause)`.
  
